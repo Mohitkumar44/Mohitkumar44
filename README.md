@@ -34,24 +34,12 @@ I enjoy turning ideas into working products — from solving algorithmic problem
 
 ## 🏆 Highlights
 
-### LeetCode — Monthly Snapshot
-
-> 📅 **Stats are intentionally updated once a month.** The numbers below are the latest monthly snapshot, not live/daily statistics.
-
-| Metric | Latest Snapshot |
-| :--- | :--- |
-| 🧩 **Problems Solved** | **282** — 139 Easy · 132 Medium · 11 Hard |
-| 🏅 **Badges** | **3** — most recent: **200 Days Badge 2026** |
-| 🔥 **Max Streak** | **117 days** |
-| 📅 **Active Days** | **215** |
-| 🏁 **Contest Rating** | **1,392** |
-| 🎯 **Contests Attended** | **24** |
-| 📈 **Contest Top %** | **86.39%** |
-| 👤 **Profile Rank** | **541,943** |
-
-**Last reviewed:** August 2026
-
-> 🔄 **Monthly update checklist:** problems solved · badges · streak · active days · contest rating · contests attended · rank/top %
+- 🧩 **280+ LeetCode problems solved**
+- 🏁 **1,390+ LeetCode contest rating**
+- 🔥 **200+ days of LeetCode activity**
+- ⚡ **100+ day maximum streak**
+- 🏅 **200 Days Badge — 2026**
+- 🤖 Building projects around **AI agents, evaluation, reliability and developer tooling**
 
 ---
 
@@ -59,9 +47,9 @@ I enjoy turning ideas into working products — from solving algorithmic problem
 
 ### LeetCode
 
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/200%20Days%20Badge%202026-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/117%20Day%20Max%20Streak-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-280%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/1%2C390%2B%20Contest%20Rating-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/200%2B%20Days%20Active-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 I primarily solve problems using **C++**, with a focus on:
 
