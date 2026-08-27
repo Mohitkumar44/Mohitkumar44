@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Mohitkumar44"><img src="https://img.shields.io/badge/GitHub-Mohitkumar44-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-238%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/mohit-kumar-84354032a/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://mohitkrportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
@@ -36,9 +36,9 @@ I enjoy turning ideas into working products — from solving algorithmic problem
 
 | Area | Achievement |
 | :--- | :--- |
-| 🧩 **LeetCode** | **300+ problems solved milestone** |
-| 🔥 **LeetCode** | Earned the **50 Days Badge (2026)** after a 50-day streak |
-| 🏁 **LeetCode Contest** | Achieved **Global Rank 722** in a Biweekly Contest |
+| 🧩 **LeetCode** | **238 problems solved** |
+| 🔥 **LeetCode** | Earned the **50 Days Badge (2026)** and **100 Days Badge (2026)** |
+| 📊 **LeetCode Rank** | Current global rank: **671,234** |
 | 🧑‍💻 **Community** | Experience with **Student Developer Club, REC Banda** |
 | 🌐 **Development** | Building and maintaining full-stack/frontend projects on GitHub |
 | 🤖 **AI** | Building projects around AI agents, evaluation, reliability and developer tooling |
@@ -49,9 +49,16 @@ I enjoy turning ideas into working products — from solving algorithmic problem
 
 ### LeetCode
 
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/300%2B%20Problems%20Milestone-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/238%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/100%20Days%20Badge%202026-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/50%20Days%20Badge%202026-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/Biweekly%20Contest%20Rank-722-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+**Current profile snapshot:**
+- **238 problems solved**
+- **2 badges** — 50 Days Badge 2026 and 100 Days Badge 2026
+- **Most recent badge:** 100 Days Badge 2026
+- **Global rank:** 671,234
+- Primary language: **C++**
 
 I primarily solve problems using **C++**, with a focus on:
 
