@@ -2,16 +2,16 @@
 
 # Hi 👋, I'm Mohit Kumar
 
-### Information Technology Student • Competitive Programmer • Full-Stack Developer • AI Builder
+### B.Tech IT Student • DSA & Competitive Programming • C++ • Software Engineering
 
 <p>
   <a href="https://github.com/Mohitkumar44"><img src="https://img.shields.io/badge/GitHub-Mohitkumar44-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/mohit-kumar-84354032a/"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mohitkrportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mohit-kr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-**B.Tech IT @ Rajkiya Engineering College, Banda · Class of 2028**
+**B.Tech in Information Technology @ Rajkiya Engineering College, Banda · 2024–2028**
 
 </div>
 
@@ -19,107 +19,120 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology undergraduate focused on **Data Structures & Algorithms, Competitive Programming, Frontend Development, and AI engineering**.
+I'm an Information Technology undergraduate focused on **Data Structures & Algorithms, problem solving, and competitive programming using C++**. I also build web projects and explore practical applications of AI.
 
-I enjoy turning ideas into working products — from solving algorithmic problems in C++ to building responsive React interfaces and experimenting with AI-powered systems.
-
-- 🎯 Focused on **DSA, competitive programming, full-stack development, and AI**
-- 🧠 Strong interest in **problem solving and efficient algorithms**
-- ⚛️ Building with **React, Tailwind CSS, JavaScript, Python and C++**
-- 🤖 Exploring **AI agents, evaluation systems, and AI-powered developer tools**
-- 🚀 Open to **Software Engineering internships and SDE opportunities**
-- 🏫 B.Tech in Information Technology, **Rajkiya Engineering College, Banda (2024–2028)**
+- 🧠 Practising DSA and improving problem-solving skills with C++
+- 🏁 Regularly participating in LeetCode contests
+- 🛠️ Building projects with C++, Python, JavaScript, React, and Next.js
+- 🤖 Exploring AI agents, evaluation systems, and developer tools
+- 🚀 Interested in Software Engineering internships and SDE opportunities
+- 🎓 B.Tech IT student at **Rajkiya Engineering College, Banda (2024–2028)**
 
 ---
 
-## 🏆 Highlights
+## 🏆 LeetCode Stats
 
-- 🧩 **280+ LeetCode problems solved**
-- 🏁 **1,390+ LeetCode contest rating**
-- 🔥 **200+ days of LeetCode activity**
-- ⚡ **100+ day maximum streak**
-- 🏅 **200 Days Badge — 2026**
-- 🤖 Building projects around **AI agents, evaluation, reliability and developer tooling**
+<p>
+  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/Contest%20Rating-1455-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode contest rating"/></a>
+  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/Problems%20Solved-361-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems solved"/></a>
+  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/Contests%20Attended-35-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contests attended"/></a>
+  <a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/200%20Days%20Badge-2026-CC66CC?style=for-the-badge&logo=leetcode&logoColor=white" alt="200 Days Badge 2026"/></a>
+</p>
+
+| LeetCode Metric | Current Stats |
+|---|---:|
+| Problems solved | **361 / 4,095** |
+| Easy | 171 |
+| Medium | 174 |
+| Hard | 16 |
+| Contest rating | **1,455** |
+| Global ranking | **389,203** |
+| Contests attended | 35 |
+| Active days | 267 |
+| Maximum streak | 157 days |
+| Submissions in the past year | 1,026 |
+| Top percentile | 60.51% |
+| Badges | 3 |
+
+*Stats are based on my LeetCode profile screenshot and may change over time.*
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 DSA & Competitive Programming
 
-### LeetCode
+I primarily solve algorithmic problems in **C++** and am steadily building my understanding of core data structures and algorithms.
 
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/LeetCode-280%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/1%2C390%2B%20Contest%20Rating-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Mohit_Kumar_Rath/"><img src="https://img.shields.io/badge/200%2B%20Days%20Active-6A5ACD?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-
-I primarily solve problems using **C++**, with a focus on:
-
-- Arrays & Strings
+**Topics I practise:**
+- Arrays and Strings
 - Binary Search
 - Hashing
-- Trees & Graphs
-- Dynamic Programming
+- Two Pointers and Sliding Window
+- Trees and Graphs
+- Greedy Algorithms
 - Backtracking
-- Greedy algorithms
-- Two pointers / Sliding window
+- Dynamic Programming
+
+🔗 **[Visit my LeetCode profile](https://leetcode.com/u/Mohit_Kumar_Rath/)**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ AgentGuard — AI Agent Evaluation & Reliability Engine
+### 🛡️ AI Agent Evaluation & Reliability Engine
 
-An AI-powered testing and reliability platform designed to evaluate autonomous AI agents before production.
+An AI-agent testing project focused on evaluating agent behaviour, reliability, and execution outcomes.
 
-**What it explores:**
-- Automatic realistic and adversarial test generation
-- Red-team testing
+**Areas explored:**
+- Test generation and evaluation workflows
 - Sandboxed agent execution
 - Execution-trace collection
-- Failure classification
-- Reliability scoring
-- Regression tracking between agent versions
+- Failure analysis and reliability scoring
 
-**Tech:** React / Next.js · Python · FastAPI · LLM APIs · Docker · PostgreSQL · Redis · OpenTelemetry
+**Tech:** Python · Docker · AI/LLM tooling
 
-🔗 [View Project](https://github.com/Mohitkumar44/AI_Agent_Evaluation_-_Reliability_Engine)
+🔗 [View Project on GitHub](https://github.com/Mohitkumar44/AI_Agent_Evaluation_-_Reliability_Engine)
 
 ### 🎬 Video Downloader Tools
 
-A collection of cross-platform video downloader utilities with a focus on simple interfaces, performance and broad format/source support.
+A collection of video downloader utilities built to explore media handling, application logic, and user-friendly tools.
 
 **Tech:** Python · C++ · GUI
 
-🔗 [View Project](https://github.com/Mohitkumar44/Different-Video-Downloaders)
+🔗 [View Project on GitHub](https://github.com/Mohitkumar44/Different-Video-Downloaders)
 
 ### 🌐 Personal Portfolio
 
-A responsive developer portfolio showcasing my profile, technical skills, projects, GitHub activity and live LeetCode statistics.
+A portfolio website showcasing my profile, skills, projects, and development journey.
 
-**Tech:** React · TypeScript · Tailwind CSS · Framer Motion · Vite
-
-🔗 [Live Portfolio](https://mohitkrportfolio.netlify.app/) · [Source Code](https://github.com/Mohitkumar44/mohit-kumar-portfolio)
+🔗 [Live Portfolio](https://mohit-kr-portfolio.vercel.app/) · [Source Code](https://github.com/Mohitkumar44/mohit-kumar-portfolio)
 
 ### 📊 Interactive Student Productivity Dashboard
 
 A web-based dashboard project focused on presenting student productivity information through an interactive interface.
 
-🔗 [View Project](https://github.com/Mohitkumar44/Interactive-Student-Productivity-Dashboard)
+🔗 [View Project on GitHub](https://github.com/Mohitkumar44/Interactive-Student-Productivity-Dashboard)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" alt="C++, C, Python, JavaScript"/>
+</p>
 
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /></p>
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" alt="HTML, CSS, React, Tailwind CSS, Next.js"/>
+</p>
 
 ### Tools & Platforms
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux, Docker"/>
+</p>
 
 ### Currently Exploring
-`AI Agents` · `LLM Applications` · `AI Evaluation` · `Backend Development` · `System Design`
+`DSA` · `Competitive Programming` · `AI Agents` · `Backend Development` · `System Design`
 
 ---
 
@@ -127,35 +140,17 @@ A web-based dashboard project focused on presenting student productivity informa
 
 **Rajkiya Engineering College, Banda**  
 B.Tech — Information Technology  
-**2024 – 2028**
+**2024–2028**
 
 ---
 
-## 🌟 What I'm Working Toward
+## 🎯 Current Goals
 
-I'm working toward becoming a strong **Software Engineer** who can combine:
-
-> **Problem Solving + Product Development + AI**
-
-My current priorities are:
-
-- Mastering DSA and competitive programming
-- Building production-quality software
-- Learning backend and system design fundamentals
-- Building practical AI-powered applications
-- Contributing to developer communities
-- Securing a strong Software Engineering internship
-
----
-
-## 📈 GitHub
-
-I use GitHub as my main workspace for learning, experimentation and building projects.
-
-`DSA` · `C++` · `Python` · `JavaScript` · `Web Development` · `AI` · `Automation` · `Projects`
-
-👉 **Explore my repositories:**  
-https://github.com/Mohitkumar44
+- Strengthen DSA and competitive programming fundamentals
+- Solve more medium- and hard-level problems
+- Build useful, reliable software projects
+- Improve backend and system design fundamentals
+- Prepare for Software Engineering internships
 
 ---
 
@@ -164,11 +159,9 @@ https://github.com/Mohitkumar44
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-kumar-84354032a/">LinkedIn</a> •
   <a href="https://leetcode.com/u/Mohit_Kumar_Rath/">LeetCode</a> •
-  <a href="https://mohitkrportfolio.netlify.app/">Portfolio</a> •
+  <a href="https://mohit-kr-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://github.com/Mohitkumar44">GitHub</a>
 </p>
-
----
 
 <div align="center">
 
